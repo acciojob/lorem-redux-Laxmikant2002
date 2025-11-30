@@ -1,0 +1,4 @@
+// Action types for Lorem API
+export const FETCH_LOREM_REQUEST = 'FETCH_LOREM_REQUEST';
+export const FETCH_LOREM_SUCCESS = 'FETCH_LOREM_SUCCESS';
+export const FETCH_LOREM_FAILURE = 'FETCH_LOREM_FAILURE';
